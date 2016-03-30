@@ -538,7 +538,6 @@ function processTravelAgencyCommands(commands) {
 
 // ------------------------------------------------------------
 // Read the input from the console as array and process it
-// Remove all below code before submitting to the judge system!
 // ------------------------------------------------------------
 
 (function() {
